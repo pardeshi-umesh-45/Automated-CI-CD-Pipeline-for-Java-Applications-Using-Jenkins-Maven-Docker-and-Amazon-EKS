@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project-maven-jenkins-CI-CD-
 
 AWS_ACCOUNT_ID = credentials('ACCOUNT_ID')     ##our aws account id should be mention in jeenkins credential in secret text     
@@ -16,3 +17,6 @@ AWS_ACCOUNT_ID = credentials('ACCOUNT_ID')     ##our aws account id should be me
 
 
         build number = latest
+=======
+# project-Maven-Jenkins-CI-CD-Docker-EKS--main
+>>>>>>> 6785695c675329bdfcc9d6f7f2863677a5c21881
